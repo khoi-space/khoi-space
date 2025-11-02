@@ -1,1 +1,3 @@
-Hello, I'm Khoi. I love hardware systems and electronic components. I always want to learn more, explore more and push more boundaries of me.
+Hello, I'm Khoi.
+I'm currently studying Computer Engineering at HCMUT.
+I love hardware systems and other electronic components.
